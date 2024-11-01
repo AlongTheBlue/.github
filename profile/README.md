@@ -8,5 +8,5 @@
 ## Member
 |[강예린](https://github.com/rkddpfls02)|[고도희](https://github.com/doteeth83)|[김예일](https://github.com/yeilkk)|[문인배](https://github.com/MoonInbae)|[이지우](https://github.com/Jiwoo-Leee)|
 |:---:|:---:|:---:|:---:|:---:|
-|<img src="https://github.com/rkddpfls02.png" width="150" height="150" >|<img src="https://github.com/doteeth83.png" width="150" height="150" >|<img src="https://github.com/yeilkk.png" width="150" height="150" >|<img src="https://github.com/MoonInbae.png" width="150" height="150" >|<img src="https://github.com/Jiwoo-Leee.png" width="150" height="150" >|
+|<img src="https://github.com/rkddpfls02.png" width="150">|<img src="https://github.com/doteeth83.png" width="150">|<img src="https://github.com/yeilkk.png" width="150">|<img src="https://github.com/MoonInbae.png" width="150">|<img src="https://github.com/Jiwoo-Leee.png" width="150">|
 | **Backend Developer** | **Frontend Devleoper** | **Frontend Devleoper <br> Backend Developer <br> Team Leader** | **Infrastructure Engineer <br> Backend Developer** | **Backend Developer** | **Backend Developer** |
