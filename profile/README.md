@@ -1,9 +1,23 @@
 # 제주도 바닷가를 따라, 바당따라
 🏆 **한국관광공사 X 카카오 2024 관광데이터 활용 공모전 장려상 수상작** 🏆
 
-[![2024 관광데이터 활용 공모전 배너](../assets/2024_관광데이터_활용_공모전_배너.png)](https://www.2024tourapi.com/)
+<a href="https://www.2024tourapi.com/">
+  <img src="../assets/2024_관광데이터_활용_공모전_배너.png" width="100%" />
+</a>
 
-🔍 [2024 관광데이터 활용 공모전 최종 결과 발표](https://api.visitkorea.or.kr/#/cntBoardDetail?no=7)
+<br/><br/>
+
+<p align="center">
+    <a href="https://www.alongtheblue.site">
+      <img src="../assets/web.png" width="15%" />
+    </a>
+    <a href="https://github.com/AlongTheBlue">
+      <img src="../assets/github.png" width="15%" />
+    </a>
+    <a href="https://api.visitkorea.or.kr/#/cntBoardDetail?no=7">
+      <img src="../assets/결과발표.png" width="15%" />
+    </a>
+</p>
 
 </br>
 
