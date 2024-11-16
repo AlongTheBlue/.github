@@ -5,7 +5,7 @@
   <img src="../assets/2024_관광데이터_활용_공모전_배너.png" width="100%" />
 </a>
 
-<br/><br/>
+<br/>
 
 <p align="center">
     <a href="https://www.alongtheblue.site">
