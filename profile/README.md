@@ -26,3 +26,14 @@
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="https://github.com/rkddpfls02.png" width="180">|<img src="https://github.com/doteeth83.png" width="180">|<img src="https://github.com/yeilkk.png" width="180">|<img src="https://github.com/MoonInbae.png" width="180">|<img src="https://github.com/Jiwoo-Leee.png" width="180">|
 | **Backend Developer** | **Frontend Devleoper** | **Frontend Devleoper <br> Backend Developer <br> Team Leader** | **Infra Engineer <br> Backend Developer** | **Backend Developer** | **Backend Developer** |
+
+</br>
+
+## Awards
+<p align="center">
+  <img src="../assets/2024_관광데이터_활용_공모전(장려상)_상장.jpg" width="70%">
+</p>
+<!-- <p align="center">
+  <img src="" width="49%">
+  <img src="../assets/2024_관광데이터_활용_공모전(장려상)_상장.jpg" width="49%">
+</p> -->
